@@ -1,4 +1,4 @@
-# A Liga Digital - Linguagem [Frontend]()
+# A Liga Digital - Linguagem Frontend
 
 Deixo aqui uma lista de opções das [Linguagem de programação](https://pt.wikipedia.org/wiki/Linguagem_de_programa%C3%A7%C3%A3o) em frontend mais utilizadas na área de tecnologia. Tanto para quem inicia-se aos que já estão na área. Nos dias de hoje dificilmente não utilizar alguma ferramenta de apoio o Framework.<p> [Referencia](https://www.alura.com.br/artigos/o-que-e-front-end-e-back-end).
 
